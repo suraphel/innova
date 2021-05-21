@@ -1,0 +1,210 @@
+/* .App {
+  text-align: center;
+} */
+
+div.color{
+  color: rgb(105, 102, 102);  
+}
+
+
+/* logo, links, avatar */
+.topmenu{
+  /* border: 1px solid white;  */
+  width: 100%;
+  background-color: rgb(3, 1, 1) ;
+  color:white;
+  height: 65px;
+  position: relative;
+}
+
+.header{    
+  /* border: 1px solid green;  */
+  /* position: relative;  */
+  background-color: rgb(3, 2, 2); 
+  float : center; 
+  margin: auto;
+  width: 80%;
+  height: 65px;    
+}
+
+.logo{
+  /* border: 1px solid red; */
+  width: 175px;
+  height:65px;
+}
+
+.toplink{
+  /* border: 1px solid yellow; */
+  padding-left: 50%;
+  height:56px;
+  padding-top: 10px; 
+  top:0;
+  position: absolute;
+}
+.toppicture{
+  background-color: rgb(14, 180, 172);
+  width:13%;
+  height:45px;  
+  margin:auto;
+  padding:10px;
+  position: absolute; 
+  float:right; 
+  right:0;
+  top:0;
+}
+
+.circleframe{
+  /* border: 1px solid white;  */
+  /* padding-top: 0 0 0 35spx; */
+  height:45px;
+  width:45px;
+  border-radius:22.5px;
+  background-color: lightblue;
+  float : left;
+ } 
+
+.topmenudate{
+  position: absolute; 
+  float : right;
+  right: 0;
+  padding: 0 0 0 20px ;
+
+}
+
+.topmenutime{
+  position: absolute; 
+  float : right;
+  right: 0;
+  padding: 0 0 0  50px ;
+}
+
+      .break {
+        clear: both;
+      } 
+      .separator{                           
+        border: 1.5px solid rgb(11, 83, 79);
+    }
+
+/* the entire second column */
+.header2inner{  
+  /* border: 1px solid maroon;  */
+  position: relative; 
+  background-color:rgba(21, 21, 22, 0.979); 
+  margin: auto;
+  width: 100%;
+  height: 78px;
+  color: white; 
+  padding: 1px 30px 2px ; 
+}
+
+/* the inner second column */
+.header2{    
+  /* border: 1px solid greenyellow; */
+  background-color:rgb(19, 38, 38, 0,9); 
+  float : center; 
+  margin: auto;
+  width: 80%;
+  height: 85px;
+  color: white; 
+  position: absolute; 
+  top: 0; 
+  right:9.4%;   
+}
+
+/* the "overview" dropdown button */
+.fa{
+  float : left; 
+  text-align: center;
+  padding-top: 25px; 
+  margin:0; 
+}
+                            .break {
+                              clear:both;
+                            }
+
+.menubar{ 
+  /* border: 1px solid red; */
+  height:25px;
+  width:170px;
+  color: rgb(105, 102, 102);  
+  float:left;
+  padding: 1 px;   
+  padding-left: 5px;
+  padding-bottom: 18px;
+  text-align: center;
+  margin: 0;  
+}
+
+.break {
+  clear: both;
+} 
+/* .separator2{
+  border: 1px solid magenta;
+} */
+
+.loweMenu{
+  /* border: 1px solid green; */
+  height: 40px; 
+  padding: 55px 30px 0 100px;
+  /* text-align: center; */  
+  font-weight:normal ;
+}
+
+.break {
+  clear: both;
+}
+.separator2{                           
+  border: 0.01px solid rgb(112, 104, 104);
+}
+
+.innerIcon{
+  /* border:1px solid maroon; */
+  float: left; 
+  padding-right: 25px;
+} 
+
+.innercontent{
+  padding-bottom: 75px;  
+  border:1px solid yellow;
+  float:left;
+  width: 85%;
+  /* height: 400px; */
+}
+
+
+.smallertable{
+  border: 1px solid rgb(158, 69, 69);  
+  float: right; 
+  padding-top: 50%;
+  width: 20%; 
+}
+
+
+.testingdiv{
+  float: left; 
+}
+
+
+/* .linkz{
+float : left; 
+border-color: rgb(142, 140, 240);
+} */
+
+
+.box {
+  border: 1px solid magenta;
+  width : 40px;
+  height: 40px; 
+  background-color: none;
+  float: left;
+  position: absolute;
+  /* text-align: none; */
+}
+
+.rightside{
+  border: 1px solid green;
+  float :left;
+  position: relative;
+}
+
+
